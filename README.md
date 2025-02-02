@@ -1,5 +1,5 @@
 # YSA_Dersi_2024
-Yapay Sinir Ağları Dersi için oluşturulmuş bir repositorydir. YSA ödevi doküman ve kodları yer almaktadır.
+Yapay Sinir Ağları Dersi için oluşturulmuş bir repositorydir. YSA ödevi vize ve final doküman ve kodları yer almaktadır.
 
 VİZE - COLAB PROJE DOSYALARI LİNKLERİM:  
 
